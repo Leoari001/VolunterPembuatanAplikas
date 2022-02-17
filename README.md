@@ -109,6 +109,7 @@ Berikut daftar Volunter yang diterima:
 
 ### L
 * Lucky Akbar, [GitHub](https://github.com/luckyAkbar).
+* Leo Ariyanto, [GitHub](https://github.com/Leoari001)
 
 ### M
 * M. Safii, [GitHub](https://github.com/msafii85).
@@ -235,4 +236,4 @@ Berikut daftar Volunter yang diterima:
 * Zaher Yusuf, [GitHub](https://github.com/1162002005jaher/).
 * Zuhrinada Maulia Annaba, [LinkedIn](https://www.linkedin.com/in/zuhrinada-annaba/).
 * Zulfazazalia Putri Candra Wati, [LinkedIn](www.linkedin.com/in/zulfaliaputri)
-* Leo Ariyanto, [GitHub](https://github.com/Leoari001)
+
